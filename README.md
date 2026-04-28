@@ -1,4 +1,4 @@
 # 2025-p3a-mme-final-project-FrantisekSvatos
 
-# TODO
+## TODO
 - [ ] Vymyslet návrh
