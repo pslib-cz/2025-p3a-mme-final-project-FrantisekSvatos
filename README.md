@@ -2,3 +2,6 @@
 
 ## TODO
 - [ ] Vymyslet návrh
+
+## Nápad
+- držák na akumulátorovou baterii
