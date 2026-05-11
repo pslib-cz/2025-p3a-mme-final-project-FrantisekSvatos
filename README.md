@@ -1,7 +1,4 @@
-# 2025-p3a-mme-final-project-FrantisekSvatos
+# Držák na akumulátorovou baterii Hilti
 
-## TODO
-- [ ] Vymyslet návrh
-
-## Nápad
-- držák na akumulátorovou baterii
+Držák bude mít dva otvory pro šroubky na uchycení pod stůl.
+Po zasunutí baterie do drážek její boční západky automaticky zacvaknou do připravených otvorů a pevně ji zajistí proti vypadnutí.
